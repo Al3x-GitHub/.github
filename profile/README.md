@@ -2,13 +2,9 @@
     ─「 𝑊𝑒𝑙𝐶𝑜𝑚𝑒 」─
 </h1>
 
-<img src="https://github.com/ikx7a/Resources/blob/main/AL3X-Github/Logo.jpg">
-
-<p>
-
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup)  [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Developer&width=800&height=400)](https://github.com/ikx7a)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=AL3x-GitHub&width=800&height=400)](https://github.com/ikx7a)
 
 **𝖢𝗈𝗉𝗒𝗋𝗂𝗀𝗁𝗍 |** [**Iᴢυɱi 和泉**](https://github.com/ikx7a)
 
